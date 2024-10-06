@@ -13,7 +13,7 @@
 
 <img align="left" width="200" src="assets/images/EHheadshot.jpg" />
 
-Some text hellooo
+Some text hi
 
 # markdown-pages.js - _simple Markdown-based static sites, without the generator_
 
