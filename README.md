@@ -11,7 +11,7 @@
 
 ![markdown logo](assets/images/EHLOGO.jpeg)
 
-<img align="left" width="200" src="assets/images/EHLOGO.jpeg" />
+<img align="left" width="200" src="assets/images/EHheadshot.jpg" />
 
 Some text
 
